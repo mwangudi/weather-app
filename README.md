@@ -23,3 +23,7 @@ H. Weather for the next three days	✅	Processed using the list array in the API
 I. Wind status information	✅	Wind speed is displayed using data.wind.speed.
 
 J. Humidity information	✅	Humidity is displayed using data.main.humidity.
+
+# UI Appearance
+![Screenshot 2025-01-22 at 19 21 39](https://github.com/user-attachments/assets/e43eff95-1f71-471d-98aa-931a484ba019)
+
