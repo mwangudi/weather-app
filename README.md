@@ -1,7 +1,7 @@
 # weather-app
 Connects to weather API to show weather forecast for a given city.
 
-#Features and Coverage
+# Features and Coverage
 Feature	Coverage	Implementation Notes
 
 A. Search box that takes the city name	✅	The input and form in the UI allow users to enter a city name.
